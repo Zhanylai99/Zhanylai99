@@ -1,8 +1,7 @@
-# ALmazbekkyzyZhanylai
-![MasterHead](https://tenor.com/ru/view/bonkio-filip-gif-23377221)
+
 <h1 align="center">Hi 👋, I'm Zhanylai</h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
-<img align="right" alt="Coding" width="400" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
+<img align="right" alt="Coding" width="300" src="https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhanylai99&label=Profile%20views&color=0e75b6&style=flat" alt="zhanylai99" /> </p>
 
