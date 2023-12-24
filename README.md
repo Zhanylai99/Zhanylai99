@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" alt="Coding" width="300" src="[https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif>
+<img align="right" alt="Coding" width="300" src=<>
 
 
 - 🔭 I’m currently working on **50k frontend developers**
